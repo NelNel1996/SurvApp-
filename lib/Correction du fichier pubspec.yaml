@@ -1,6 +1,6 @@
 name: survapp
 description: Application de gestion des surveillants de devoirs
-publish_to: 'none'
+publish_to: "none"
 version: 1.0.0+1
 
 environment:
